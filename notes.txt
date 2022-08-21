@@ -1,0 +1,6 @@
+- Last checkpoint:
+    - "Raising and Handlings Events" section
+
+- Notes
+    - Useful React developer tools:
+        - Install Chrome/Firefox extension "React Developer Tools" for debugging.
